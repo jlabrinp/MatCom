@@ -14,8 +14,8 @@ Bienvenido al repositorio de contenidos, guías y cuadernos de código para Mate
 
     Guía de ejercicios y problemas resueltos.
 
-    [:octicons-download-24: Descargar PDF](pdfs/guia1.pdf){ .md-button .md-button--primary }
-    [:octicons-eye-24: Ver en Navegador](pdfs/guia1.pdf){ .md-button target="_blank" }
+    [:octicons-download-24: Descargar PDF](pdfs/Laboratorio2.pdf){ .md-button .md-button--primary }
+    [:octicons-eye-24: Ver en Navegador](pdfs/Laboratorio2.pdf){ .md-button target="_blank" }
 
 -   :material-file-pdf-box:{ .lg .middle } **Apunte Teórico**
 
